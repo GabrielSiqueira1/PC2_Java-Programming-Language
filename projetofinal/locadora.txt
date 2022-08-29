@@ -1,0 +1,31 @@
+Corra!;Suspense;29.00;2017;3
+Jurassic Park - Parque dos dinossauros;Ficção Científica;89.00;1993;3
+Como treinar seu dragão;Aventura;345.00;2010;3
+Cantando na chuva;Musical;1067.00;1952;3
+Escola de Rock;Comédia;92.00;2003;3
+Your name;Romance;52.00;2016;3
+A noviça rebelde;Musical;78.00;1965;3
+Um sonho de liberdade;Drama;40.00;1994;3
+A Silent Voice;Romance;24.00;2016;3
+Suspiria;Terror;73.00;2018;3
+La la land: Cantando Estações;Musical;69.00;2016;3
+Harry Potter e as Relíquias da Morte - Parte 2;Fantasia;103.00;2011;3
+Garota exemplar;Suspense;73.00;2014;3
+Django Livre;Faroeste;89.00;2012;3
+As aventuras de Pi;Aventura;93.00;2012;3
+Procurando Nemo;Aventura;14.00;2003;3
+Intocáveis;Drama;35.00;2011;3
+Matrix 4;Ficção Científica;60.00;2021;3
+O senhor dos Anéis: A Sociedade do anel;Fantasia;87.00;2001;3
+Blade Runner 2049;Ficção Científica;102.00;2017;3
+A vida é bela;Drama;80.00;1997;3
+Como eu era antes de você;Romance;32.00;2016;3
+O Exorcista;Terror;84.00;1973;3
+Liga da Justiça;Ação;60.00;2021;3
+Pulp Fiction;Comédia;92.00;1994;3
+Godzilla vs Kong;Ação;120.00;2021;3
+Viúva Negra;Ação;60.00;2021;3
+O auto da compadecida;Comédia;95.00;2000;3
+007 Cassino Royale;Espionagem;90.00;2006;3
+Massacre da Serra Elétrica;Terror;67.00;1974;3
+Parasita;Suspense;46.00;2019;3
